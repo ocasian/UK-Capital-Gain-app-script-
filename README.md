@@ -18,7 +18,7 @@ A high-precision Google Apps Script (GAS) designed to calculate Capital Gains Ta
 
 1.  Open your Google Sheet.
 2.  Navigate to **Extensions** > **Apps Script**.
-3.  Paste the code from `UK_CGT.gs` into the editor.
+3.  Paste the code from `capital_gain.gs` into the editor.
 4.  Hit **Save**.
 5.  In your sheet, use the formula: `=UK_CGT(A2:F100)` (adjusting for your data range).
 
