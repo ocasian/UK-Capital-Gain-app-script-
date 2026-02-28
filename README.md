@@ -1,5 +1,5 @@
 
-Use this app script to help ind the capital gain for each sales.
+Use this app script to help find the capital gain for each sales.
 It works for cryptos and stocks.
 
 Action	Trade date	Symbol	Quantity	Price  	Fees
